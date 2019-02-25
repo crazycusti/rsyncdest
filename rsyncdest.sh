@@ -1,3 +1,5 @@
+## remove the []
+
 #!/bin/bash
 
 read -p "Geben Sie den Dateinamen ein: " file
